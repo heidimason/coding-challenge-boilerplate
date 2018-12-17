@@ -9,10 +9,11 @@
   "author": "Heidi Mason",
   "license": "ISC",
   "dependencies": {
+    "natives": "^1.1.6",
     "npm": "^6.4.1"
   },
   "devDependencies": {
-    "browser-sync": "^2.24.7",
+    "browser-sync": "^2.26.3",
     "gulp": "^3.9.1"
   }
 }
