@@ -1,6 +1,7 @@
 {
   "name": "coding-challenge",
   "version": "1.0.0",
+  "private": true,
   "description": "Coding challenge in vanilla JavaScript",
   "main": "index.html",
   "scripts": {
