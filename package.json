@@ -11,10 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "natives": "^1.1.6",
-    "npm": "^6.4.1"
+    "npm": "^6.11.3"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^2.26.7",
     "gulp": "^3.9.1"
   }
 }
