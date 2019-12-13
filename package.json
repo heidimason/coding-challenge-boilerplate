@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "natives": "^1.1.6",
-    "npm": "^6.11.3"
+    "npm": "^6.13.4"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
